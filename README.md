@@ -51,6 +51,6 @@ for (int i = 0; i < count; i++)
 }
 ```
 Результат вывода в терминал:
-> ![Task result](Result.png)
+> ![Task result](Result.PNG)
 5. Скриншот журнала изменений (история коммитов).
->![History of changes](Commits.png)
+>![History of changes](Commits.PNG)
