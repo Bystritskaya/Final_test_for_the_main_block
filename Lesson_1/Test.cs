@@ -9,8 +9,8 @@
 [“Russia”, “Denmark”, “Kazan”] → []
 */
 
-Console.Write("Введите элементы массива через запятую: ");
-string[] input = Console.ReadLine().Split(',');
+Console.WriteLine("Введите элементы массива через пробел:");
+string[] input = Console.ReadLine().Split(' ');
 
 string[] output = new string[input.Length];
 int count = 0;
